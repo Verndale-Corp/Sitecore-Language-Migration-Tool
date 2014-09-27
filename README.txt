@@ -4,7 +4,7 @@ Purpose
 Quickly add language versions, copy language version content, remove language versions for the content tree.
 
 Compatibility
-The codebase is compatible with Sitecore 6.6.x releases.  It should work with earlier versions though.
+The codebase is compatible with Sitecore 6.6.x releases and at least through Sitecore 7.2.x.  It should work with earlier versions though.
 
 How to build code and deploy the solution
 
@@ -23,4 +23,4 @@ Testing
 
 There will be lengthy documentation in a blog post on Sitecore
 
-Review the blog series about Partial Language Fallback on Sitecore, link TBD
+Review the blog series about Partial Language Fallback on Sitecore, http://www.sitecore.net/en-gb/Learn/Blogs/Technical-Blogs/Elizabeth-Spranzani.aspx
