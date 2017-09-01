@@ -4,7 +4,7 @@ Purpose
 Quickly add language versions, copy language version content, remove language versions for the content tree.
 
 Compatibility
-The codebase is compatible with Sitecore 6.6.x releases and at least through Sitecore 7.2.x.  It should work with earlier versions though.
+The codebase is compatible with Sitecore 6.6.x releases and at least through Sitecore 8.2.x.  It should work with earlier versions though.
 
 How to build code and deploy the solution
 
@@ -13,6 +13,7 @@ How to build code and deploy the solution
 
 3. Download and install the Language Migration Tool-1.zip Sitecore package
 This will add an application to core and add a LanguageTools folder to /sitecore modules/web
+**Make sure to copy the .aspx and .aspx.cs files into your project and build it!  The code needs to be compiled into your solution!
 
 Testing
 1. Open up the tool by either going directly to the url and opening via the Sitecore start button and choosing in the right menu column
